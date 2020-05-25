@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src.Main"/>
+	<classpathentry kind="src" path="src.test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/bundle-jars.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/libs/snakeyaml-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/selenium-3.141.59-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/selenium-3.141.59-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-3.141.59-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-3.141.59-nodeps-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/Testing/Jar files/Selenium/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
